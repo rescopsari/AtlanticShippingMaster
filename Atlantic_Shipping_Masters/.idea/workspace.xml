@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fb0e956-a4bd-4e58-afb9-397845dea401" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/src/Controller/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C++/calcul_meilleur_traj/calcul_meilleur_traj/calcul_meilleur_traj.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../C++/calcul_meilleur_traj/calcul_meilleur_traj/calcul_meilleur_traj.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C++/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/calcul_m.1fe45a2e.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../C++/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/calcul_m.1fe45a2e.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C++/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/calcul_meilleur_traj.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../C++/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/calcul_meilleur_traj.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C++/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../C++/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/vc142.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C++/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../C++/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/vc142.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C++/calcul_meilleur_traj/x64/Debug/calcul_meilleur_traj.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../C++/calcul_meilleur_traj/x64/Debug/calcul_meilleur_traj.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C++/calcul_meilleur_traj/x64/Debug/calcul_meilleur_traj.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../C++/calcul_meilleur_traj/x64/Debug/calcul_meilleur_traj.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C++/calcul_meilleur_traj/x64/Debug/calcul_meilleur_traj.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../C++/calcul_meilleur_traj/x64/Debug/calcul_meilleur_traj.pdb" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/ASM_Distance_Calculator/.vs/ASM_Distance_Calculator/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/ASM_Distance_Calculator/.vs/ASM_Distance_Calculator/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASM_Distance_Calculator/ASM_Distance_Calculator/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ASM_Distance_Calculator/ASM_Distance_Calculator/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASM_Distance_Calculator/ASM_Distance_Calculator/bin/Release/ASM_Distance_Calculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ASM_Distance_Calculator/ASM_Distance_Calculator/bin/Release/ASM_Distance_Calculator.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASM_Distance_Calculator/ASM_Distance_Calculator/bin/Release/ASM_Distance_Calculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ASM_Distance_Calculator/ASM_Distance_Calculator/bin/Release/ASM_Distance_Calculator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASM_Distance_Calculator/ASM_Distance_Calculator/obj/Release/ASM_Distance_Calculator.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ASM_Distance_Calculator/ASM_Distance_Calculator/obj/Release/ASM_Distance_Calculator.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASM_Distance_Calculator/ASM_Distance_Calculator/obj/Release/ASM_Distance_Calculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ASM_Distance_Calculator/ASM_Distance_Calculator/obj/Release/ASM_Distance_Calculator.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASM_Distance_Calculator/ASM_Distance_Calculator/obj/Release/ASM_Distance_Calculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ASM_Distance_Calculator/ASM_Distance_Calculator/obj/Release/ASM_Distance_Calculator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/.vs/calcul_meilleur_traj/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/.vs/calcul_meilleur_traj/v16/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/.vs/calcul_meilleur_traj/v16/Browse.VC.db-shm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/.vs/calcul_meilleur_traj/v16/Browse.VC.db-wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/.vs/calcul_meilleur_traj/v16/Browse.VC.opendb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/.vs/calcul_meilleur_traj/v16/ipch/AutoPCH/3fe930592150c92e/CALCUL_MEILLEUR_TRAJ.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/.vs/calcul_meilleur_traj/v16/ipch/AutoPCH/851cfdc19b241f2b/CALCUL_MEILLEUR_TRAJ.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/Debug/calcul_meilleur_traj.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/Debug/calcul_meilleur_traj.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/Debug/calcul_meilleur_traj.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/Debug/libmysql.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/Debug/libmysql.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/Debug/CodeAnalysisResultManifest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/Debug/calcul_m.1fe45a2e.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/Debug/calcul_m.1fe45a2e.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/Debug/calcul_m.1fe45a2e.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/Debug/calcul_m.1fe45a2e.tlog/calcul_meilleur_traj.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/Debug/calcul_m.1fe45a2e.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/Debug/calcul_m.1fe45a2e.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/Debug/calcul_m.1fe45a2e.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/Debug/calcul_meilleur_traj.exe.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/Debug/calcul_meilleur_traj.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/Debug/calcul_meilleur_traj.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/Debug/calcul_meilleur_traj.obj.enc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/Debug/vc142.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/Debug/vc142.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/calcul_meilleur_traj.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/calcul_meilleur_traj.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/calcul_meilleur_traj.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/calcul_meilleur_traj.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/calcul_meilleur_traj.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/packages.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/calcul_m.1fe45a2e.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/calcul_m.1fe45a2e.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/calcul_m.1fe45a2e.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/calcul_m.1fe45a2e.tlog/calcul_meilleur_traj.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/calcul_m.1fe45a2e.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/calcul_m.1fe45a2e.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/calcul_m.1fe45a2e.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/calcul_meilleur_traj.exe.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/calcul_meilleur_traj.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/calcul_meilleur_traj.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/vc142.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Debug/vc142.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Release/calcul_m.1fe45a2e.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Release/calcul_m.1fe45a2e.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Release/calcul_m.1fe45a2e.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Release/calcul_m.1fe45a2e.tlog/calcul_meilleur_traj.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Release/calcul_m.1fe45a2e.tlog/calcul_meilleur_traj.write.1u.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Release/calcul_m.1fe45a2e.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Release/calcul_m.1fe45a2e.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Release/calcul_m.1fe45a2e.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Release/calcul_meilleur_traj.exe.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Release/calcul_meilleur_traj.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Release/calcul_meilleur_traj.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/calcul_meilleur_traj/x64/Release/vc142.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/build/libmysql-cpp.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/big_endian.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/binary_log_types.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/byte_order_generic.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/byte_order_generic_x86.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/decimal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/errmsg.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/keycache.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/little_endian.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/m_ctype.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/m_string.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/my_alloc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/my_byteorder.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/my_command.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/my_compiler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/my_config.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/my_dbug.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/my_dir.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/my_getopt.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/my_global.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/my_list.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/my_sys.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/my_thread.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/my_thread_local.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/my_xml.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/client_authentication.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/client_plugin.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/client_plugin.h.pp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/com_data.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/get_password.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/group_replication_priv.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/innodb_priv.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/mysql_lex_string.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/plugin.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/plugin_audit.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/plugin_audit.h.pp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/plugin_auth.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/plugin_auth.h.pp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/plugin_auth_common.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/plugin_ftparser.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/plugin_ftparser.h.pp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/plugin_group_replication.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/plugin_keyring.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/plugin_keyring.h.pp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/plugin_trace.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/plugin_validate_password.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/psi/mysql_file.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/psi/mysql_idle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/psi/mysql_mdl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/psi/mysql_memory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/psi/mysql_ps.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/psi/mysql_socket.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/psi/mysql_sp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/psi/mysql_stage.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/psi/mysql_statement.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/psi/mysql_table.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/psi/mysql_thread.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/psi/mysql_transaction.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/psi/psi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/psi/psi_base.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/psi/psi_memory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_command.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_locking.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_my_plugin_log.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_my_snprintf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_mysql_alloc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_mysql_keyring.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_mysql_password_policy.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_mysql_string.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_parser.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_rpl_transaction_ctx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_rpl_transaction_write_set.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_rules_table.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_security_context.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_srv_session.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_srv_session_info.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_ssl_wrapper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_thd_alloc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_thd_engine_lock.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_thd_wait.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/service_thread_scheduler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/services.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/services.h.pp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/thread_pool_priv.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql/thread_type.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql_com.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql_com_server.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql_embed.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql_time.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysql_version.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysqld_ername.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/mysqld_error.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/plugin.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/plugin_audit.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/plugin_ftparser.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/plugin_group_replication.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/plugin_keyring.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/plugin_validate_password.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/sql_common.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/sql_state.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/sslopt-case.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/sslopt-longopts.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/sslopt-vars.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/thr_cond.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/thr_mutex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/thr_rwlock.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/include/typelib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/x64/Debug/libmysql.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/x64/Debug/libmysql.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/x64/Release/libmysql.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/x64/Release/libmysql.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/x86/Debug/libmysql.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/x86/Debug/libmysql.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/x86/Release/libmysql.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/lib/native/x86/Release/libmysql.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/packages/libmysql-cpp.5.7.24/libmysql-cpp.5.7.24.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/x64/Debug/calcul_meilleur_traj.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/x64/Debug/calcul_meilleur_traj.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/x64/Debug/calcul_meilleur_traj.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/x64/Debug/libmysql.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/x64/Debug/libmysql.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/x64/Release/calcul_meilleur_traj.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/x64/Release/calcul_meilleur_traj.iobj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/x64/Release/calcul_meilleur_traj.ipdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul_meilleur_traj/x64/Release/calcul_meilleur_traj.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ASM_Distance_Calculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/public/ASM_Distance_Calculator.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/maps.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/maps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/calcul_meilleur_traj.exe" beforeDir="false" afterPath="$PROJECT_DIR$/public/calcul_meilleur_traj.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/App_KernelDevDebugContainer.php" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/App_KernelDevDebugContainer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/App_KernelDevDebugContainerCompiler.log" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/App_KernelDevDebugContainerCompiler.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/App_KernelDevDebugContainerDeprecations.log" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/App_KernelDevDebugContainerDeprecations.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/log/dev.log" beforeDir="false" afterPath="$PROJECT_DIR$/var/log/dev.log" afterDir="false" />
+>>>>>>> 4e5c03ea49ee33362066afdb74c0dd66a089b1d8
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-eventmanager" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/webimpress/safe-writer" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/symfony/apache-pack" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/notifier" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jT9Sm3M8qr3YgTK5R5i1LVSLZq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fb0e956-a4bd-4e58-afb9-397845dea401" name="Default Changelist" comment="" />
+      <created>1603817218083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603817218083</updated>
+      <workItem from="1603817219252" duration="36043000" />
+      <workItem from="1603858358259" duration="1021000" />
+      <workItem from="1603899674601" duration="31096000" />
+      <workItem from="1604346324075" duration="669000" />
+      <workItem from="1604364487277" duration="59000" />
+      <workItem from="1604366785508" duration="647000" />
+<<<<<<< HEAD
+      <workItem from="1604678649391" duration="525000" />
+=======
+      <workItem from="1604588593452" duration="92087000" />
+      <workItem from="1605125501556" duration="16873000" />
+      <workItem from="1606209073064" duration="2548000" />
+      <workItem from="1606223877475" duration="4259000" />
+      <workItem from="1606380319594" duration="6258000" />
+      <workItem from="1606521926137" duration="4356000" />
+>>>>>>> 4e5c03ea49ee33362066afdb74c0dd66a089b1d8
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+<<<<<<< HEAD
+=======
+    <option name="oldMeFiltersMigrated" value="true" />
+>>>>>>> 4e5c03ea49ee33362066afdb74c0dd66a089b1d8
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="547" y="476" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1604364441225">
+      <screen x="0" y="40" width="3440" height="1400" />
+    </state>
+    <state x="547" y="476" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.40.3440.1400@0.40.3440.1400" timestamp="1604364441225" />
+    <state x="1554" y="663" key="NewPhpFileDialog" timestamp="1603818262339">
+      <screen x="0" y="40" width="3440" height="1400" />
+    </state>
+    <state x="1554" y="663" key="NewPhpFileDialog/0.40.3440.1400@0.40.3440.1400" timestamp="1603818262339" />
+    <state x="1221" y="385" key="SettingsEditor" timestamp="1603900939386">
+      <screen x="0" y="40" width="3440" height="1400" />
+    </state>
+    <state x="1221" y="385" key="SettingsEditor/0.40.3440.1400@0.40.3440.1400" timestamp="1603900939386" />
+    <state x="2287" y="447" width="585" height="592" key="find.popup" timestamp="1603907066119">
+      <screen x="0" y="40" width="3440" height="1400" />
+    </state>
+    <state x="2287" y="447" width="585" height="592" key="find.popup/0.40.3440.1400@0.40.3440.1400" timestamp="1603907066119" />
+    <state x="1383" y="355" width="672" height="678" key="search.everywhere.popup" timestamp="1604700593888">
+      <screen x="0" y="40" width="3440" height="1400" />
+    </state>
+    <state x="1383" y="355" width="672" height="678" key="search.everywhere.popup/0.40.3440.1400@0.40.3440.1400" timestamp="1604700593888" />
+  </component>
+</project>

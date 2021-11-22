@@ -1,0 +1,7 @@
+C:\Users\resco\Desktop\PartyHard\b2\projet_trans_asm\cs\asm_cs\obj\Debug\asm_cs.csprojAssemblyReference.cache
+C:\Users\resco\Desktop\PartyHard\b2\projet_trans_asm\cs\asm_cs\obj\Debug\asm_cs.csproj.CoreCompileInputs.cache
+C:\Users\resco\Desktop\PartyHard\b2\projet_trans_asm\cs\asm_cs\bin\Debug\asm_cs.exe.config
+C:\Users\resco\Desktop\PartyHard\b2\projet_trans_asm\cs\asm_cs\bin\Debug\asm_cs.exe
+C:\Users\resco\Desktop\PartyHard\b2\projet_trans_asm\cs\asm_cs\bin\Debug\asm_cs.pdb
+C:\Users\resco\Desktop\PartyHard\b2\projet_trans_asm\cs\asm_cs\obj\Debug\asm_cs.exe
+C:\Users\resco\Desktop\PartyHard\b2\projet_trans_asm\cs\asm_cs\obj\Debug\asm_cs.pdb

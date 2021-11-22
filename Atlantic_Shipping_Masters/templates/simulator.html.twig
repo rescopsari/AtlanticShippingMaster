@@ -1,0 +1,29 @@
+{% extends 'base.html.twig' %}
+{% block body %}
+    <div id="map"></div>
+    <form action="" method="post" onsubmit="validateForm()">
+        <div class="selector" onload="portList()">
+            <select name="portDepart" id="portDepart" onchange="portList()">
+            {% for port in ports %}
+                <option value="{{ port.id }}">{{ port.name }}</option>
+            {% endfor %}
+            </select>
+            {% for port in ports %}
+
+            <div class="port">
+                <input type="checkbox" id="{{ port.name }}" name="port_{{ port.id }}" value="{{ port.id }}" onchange="portList()">
+                <label for="{{ port.name }}">{{ port.name }}</label>
+            </div>
+
+
+
+            {% endfor %}
+        </div>
+        <input type="submit">
+    </form>
+{% endblock %}
+
+{% block javascripts %}
+    <script defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBdaJ21fVwpykzIBS3Ru3F0AmCyCBFphCw&callback=initMap&libraries=geometry&v=weekly"></script>
+    <script src="{{ asset('assets/js/maps.js') }}"></script>
+{% endblock %}

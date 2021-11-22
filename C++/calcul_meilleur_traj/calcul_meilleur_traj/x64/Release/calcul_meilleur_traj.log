@@ -1,0 +1,9 @@
+﻿  calcul_meilleur_traj.cpp
+A:\cours\PartyHard\b2\projet_trans_asm\C++\calcul_meilleur_traj\calcul_meilleur_traj\calcul_meilleur_traj.cpp(21,13): warning C4101: 'res' : variable locale non référencée
+A:\cours\PartyHard\b2\projet_trans_asm\C++\calcul_meilleur_traj\calcul_meilleur_traj\calcul_meilleur_traj.cpp(20,12): warning C4101: 'row' : variable locale non référencée
+  Génération de code en cours
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  calcul_meilleur_traj.vcxproj -> A:\cours\PartyHard\b2\projet_trans_asm\C++\calcul_meilleur_traj\x64\Release\calcul_meilleur_traj.exe

@@ -1,0 +1,2 @@
+C:\Users\resco\Desktop\PartyHard\b2\projet_trans_asm\cs\asm_cs_unit_test\obj\Debug\asm_cs_unit_test.csprojAssemblyReference.cache
+C:\Users\resco\Desktop\PartyHard\b2\projet_trans_asm\cs\asm_cs_unit_test\obj\Debug\asm_cs_unit_test.csproj.CoreCompileInputs.cache

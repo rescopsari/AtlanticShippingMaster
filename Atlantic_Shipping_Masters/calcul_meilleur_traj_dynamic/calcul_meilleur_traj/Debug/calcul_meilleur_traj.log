@@ -1,0 +1,7 @@
+﻿  calcul_meilleur_traj.cpp
+Z:\Projet\PartyHard\b2\projet_trans_asm\Atlantic_Shipping_Masters\calcul_meilleur_traj-genetic - Copie\calcul_meilleur_traj\calcul_meilleur_traj.cpp(12,1): warning C4005: 'min' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(197): message : voir la définition précédente de 'min'
+Z:\Projet\PartyHard\b2\projet_trans_asm\Atlantic_Shipping_Masters\calcul_meilleur_traj-genetic - Copie\calcul_meilleur_traj\calcul_meilleur_traj.cpp(72,17): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+Z:\Projet\PartyHard\b2\projet_trans_asm\Atlantic_Shipping_Masters\calcul_meilleur_traj-genetic - Copie\calcul_meilleur_traj\calcul_meilleur_traj.cpp(74,20): warning C4018: '<' : incompatibilité signed/unsigned
+Z:\Projet\PartyHard\b2\projet_trans_asm\Atlantic_Shipping_Masters\calcul_meilleur_traj-genetic - Copie\calcul_meilleur_traj\calcul_meilleur_traj.cpp(74,48): warning C4244: '+=' : conversion de 'float' en 'int', perte possible de données
+  calcul_meilleur_traj.vcxproj -> Z:\Projet\PartyHard\b2\projet_trans_asm\Atlantic_Shipping_Masters\calcul_meilleur_traj-genetic - Copie\Debug\calcul_meilleur_traj.exe

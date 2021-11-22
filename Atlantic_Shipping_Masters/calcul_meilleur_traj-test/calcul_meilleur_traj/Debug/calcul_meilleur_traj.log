@@ -1,0 +1,6 @@
+﻿  calcul_meilleur_traj.cpp
+Z:\Projet\PartyHard\b2\projet_trans_asm\Atlantic_Shipping_Masters\calcul_meilleur_traj-genetic\calcul_meilleur_traj\calcul_meilleur_traj.cpp(35,23): warning C4018: '<' : incompatibilité signed/unsigned
+Z:\Projet\PartyHard\b2\projet_trans_asm\Atlantic_Shipping_Masters\calcul_meilleur_traj-genetic\calcul_meilleur_traj\calcul_meilleur_traj.cpp(61,20): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+Z:\Projet\PartyHard\b2\projet_trans_asm\Atlantic_Shipping_Masters\calcul_meilleur_traj-genetic\calcul_meilleur_traj\calcul_meilleur_traj.cpp(63,23): warning C4018: '<' : incompatibilité signed/unsigned
+Z:\Projet\PartyHard\b2\projet_trans_asm\Atlantic_Shipping_Masters\calcul_meilleur_traj-genetic\calcul_meilleur_traj\calcul_meilleur_traj.cpp(63,51): warning C4244: '+=' : conversion de 'float' en 'int', perte possible de données
+  calcul_meilleur_traj.vcxproj -> Z:\Projet\PartyHard\b2\projet_trans_asm\Atlantic_Shipping_Masters\calcul_meilleur_traj-genetic\Debug\calcul_meilleur_traj.exe
